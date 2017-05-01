@@ -21,3 +21,5 @@ Setup:
 10. Post a message in the public channel on your side to test.
 
 The file will select a random avatar for each new user; the avatar will persist for that user. This allows you to have a visual difference between multiple users from the other team.
+
+Spredfast
